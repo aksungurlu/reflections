@@ -4,3 +4,23 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -it helps to divide your modifications into commits
 -you can commit one by one each logical change in a directory by adding only related files
+
+How can you use the staging area to make sure you have one commit per logical change?
+-Only related modified files are moved to the stage
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-Branches are always useful not to break-up the project
+-even if you make a simple change it's probable to break-up the code
+-also using different paths would be useful during collaboration
+
+How do the diagrams help you visualize the branch structure?
+-it shows us unreachable commits
+-visualization is always helpful to understand abstract issues
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-we have a one path working correctly
+-we see each collaboration on branches with the diagrams
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-It really would need a complex AI to decide during auto-merge
+-Manual merging would be a time-loss if there is no conflict
