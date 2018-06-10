@@ -18,3 +18,6 @@ Describe the differences between forks, clones, and branches. When would you use
 -Forks are actually clones on Github itself
 -And you can clone any public repository to your local
 -But if you don't fork it, you wouldn't be able to commit on GitHub
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-When you start updating the project, you know that you've started from the most updated point
