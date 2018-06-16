@@ -26,3 +26,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 -Code could be shared via emial but wouldn't be easy
 -Collaboration would be only different part of the project, but still won't be easy to merge
 -Can't think anything easier w/o GitHub
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-It's the only way for Collaboration
+-if everyone works on master, everone would be dealing with conflicts all the time
